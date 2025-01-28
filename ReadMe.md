@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">Full-stack developer from Venezuela</h3>
 
-I'm currently working on:<br>I’m a freelancer working on various web development projects, mostly focused on creating efficient and user-friendly applications.<br><br>I'm looking to collaborate on:<br>Exciting web development projects or teams that need support with building modern websites and applications using Angular, React, .NET, or NestJS.<br><br>I'm looking for help with:<br>Improving my web development skills and exploring new techniques for building websites, especially with advanced front-end and back-end frameworks.<br><br>I'm currently learning:<br>I’m staying up-to-date with the latest technologies in web development, such as new features in JavaScript, TypeScript, and modern design tools.<br><br>Ask about:<br>Web development, software tools, or tips for creating efficient and attractive applications.<br><br>Fun fact:<br>I practice karate, and it helps me stay focused and disciplined both in life and in my work as a developer!
+- 🔭 I’m currently working on **I’m a freelancer working on various web development projects, mostly focused on creating efficient and user-friendly applications.**
+
+- 🌱 I’m currently learning **I’m staying up-to-date with the latest technologies in web development, such as new features in JavaScript, TypeScript, and modern design tools.**
+
+- 👯 I’m looking to collaborate on **Exciting web development projects or teams that need support with building modern websites and applications using Angular, React, .NET, or NestJS.**
+
+- 🤝 I’m looking for help with **Improving my web development skills and exploring new techniques for building websites, especially with advanced front-end and back-end frameworks.**
+
+- 💬 Ask me about **Web development, software tools, or tips for creating efficient and attractive applications.**
 
 
 # 💻 Tech Stack:
