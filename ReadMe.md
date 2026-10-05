@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">Full-stack developer from Venezuela</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
+
+I build business-oriented web applications and end-to-end
+systems using React, Angular, NestJS and PostgreSQL.
+
+4+ years working on web development projects, from frontend
+interfaces and REST APIs to database design and application
+architecture.
+
+Core stack:
+React · Angular · TypeScript · NestJS · PostgreSQL
 
 - 🔭 I’m currently working on **I’m a freelancer working on various web development projects, mostly focused on creating efficient and user-friendly applications.**
 
